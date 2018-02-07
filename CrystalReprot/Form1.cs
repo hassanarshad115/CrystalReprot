@@ -20,7 +20,7 @@ namespace CrystalReprot
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+        
             ReportDocument rdoc = new ReportDocument();
 
             string appPath = Application.StartupPath;
